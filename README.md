@@ -1,4 +1,4 @@
-Simple Calculator - Python
+# Simple Calculator - Python
 
 A collection of small, menu-driven Python programs built for practice, written and run in a Jupyter Notebook. Includes a calculator, a number guessing game, a grade statistics tool, and a factorial calculator.
 
