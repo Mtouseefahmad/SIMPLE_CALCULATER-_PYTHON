@@ -22,6 +22,7 @@ jupyter notebook calculater.ipynb
 Requirements
 Python 3
 Jupyter Notebook (no external libraries needed — only the built-in random module is used)
-Author
+
+Author:
 
 Muhammad Touseef Ahmad
